@@ -1,0 +1,27 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Agola Color Schemes",
+		"BoundKeys",
+		"BracketHighlighter",
+		"ColdBox Platform",
+		"Colorsublime",
+		"EditorConfig",
+		"ExportHtml",
+		"Git",
+		"GitGutter",
+		"Line Endings Unify",
+		"Package Control",
+		"Print to HTML",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-contrib-CFLint",
+		"SublimeLinter-jshint",
+		"TortoiseGIT"
+	]
+}

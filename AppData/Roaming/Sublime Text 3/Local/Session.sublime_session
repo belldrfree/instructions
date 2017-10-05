@@ -1,0 +1,3662 @@
+{
+	"folder_history":
+	[
+		"/C/ColdFusion11/cfusion/wwwroot/pms-es",
+		"/C/ColdFusion11/cfusion/wwwroot/pms-escb2",
+		"/C/boxtest1"
+	],
+	"last_version": 3143,
+	"last_window_id": 43,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 668.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"calUser",
+						"calUserSnapId"
+					],
+					[
+						"modul",
+						"moduleMapping"
+					],
+					[
+						"ma",
+						"maxlength\tAttr"
+					],
+					[
+						"cfsc",
+						"cfscript\tTag (cmfl)"
+					],
+					[
+						"librar",
+						"libraryId"
+					],
+					[
+						"lbF",
+						"lbFolder"
+					],
+					[
+						"query",
+						"queryExecute"
+					],
+					[
+						"ver",
+						"verLabel1"
+					],
+					[
+						"verlab",
+						"verLabel2"
+					],
+					[
+						"parent",
+						"parentlbFolderId〔variable〕"
+					],
+					[
+						"lbFol",
+						"lbFolderId〔variable〕"
+					],
+					[
+						"stru",
+						"structKeyExists"
+					],
+					[
+						"type",
+						"typeof〔keyword〕"
+					],
+					[
+						"doc",
+						"docIsInCollection"
+					],
+					[
+						"getl",
+						"getSessionLastFolderId"
+					],
+					[
+						"return",
+						"returnLocation"
+					],
+					[
+						"q",
+						"query"
+					],
+					[
+						"lbFolder",
+						"lbFolderName"
+					],
+					[
+						"parentlb",
+						"parentlbFolderId"
+					],
+					[
+						"parentFol",
+						"parentlbFolderId"
+					],
+					[
+						"lbfolder",
+						"lbFolderId"
+					],
+					[
+						"witin",
+						"withinCollection"
+					],
+					[
+						"within",
+						"withinCollection"
+					],
+					[
+						"delete",
+						"deleteSubsidiaryFiles"
+					],
+					[
+						"mod",
+						"modifiedbyuserid"
+					],
+					[
+						"lbDoc",
+						"lbDocId"
+					],
+					[
+						"tq",
+						"tqresult.sql"
+					],
+					[
+						"lbVer",
+						"lbVerId"
+					],
+					[
+						"parent_lbdoc",
+						"parent_lbdocId"
+					],
+					[
+						"lbfol",
+						"lbFolderId"
+					],
+					[
+						"lbDo",
+						"lbDocId"
+					],
+					[
+						"theUser",
+						"theUserId"
+					],
+					[
+						"parent_",
+						"parent_lbdocid"
+					],
+					[
+						"parentl",
+						"parentlbDocId"
+					],
+					[
+						"down",
+						"downloadID"
+					],
+					[
+						"recor",
+						"recordCount"
+					],
+					[
+						"lbdoc",
+						"lbDocId"
+					],
+					[
+						"lbv",
+						"lbVerId"
+					],
+					[
+						"sDate",
+						"sDateToUse"
+					],
+					[
+						"lbFold",
+						"lbFolderId"
+					],
+					[
+						"origina",
+						"originatorId"
+					],
+					[
+						"lbFOlder",
+						"lbFolderId"
+					],
+					[
+						"originat",
+						"originatorId"
+					],
+					[
+						"lbdo",
+						"lbDocId"
+					],
+					[
+						"tsecur",
+						"tSecurity.cogs"
+					],
+					[
+						"sls",
+						"slshipIds"
+					],
+					[
+						"lb",
+						"lbAccess"
+					],
+					[
+						"v_library_uiSecSel",
+						"v_library_uiSecSel.cfm"
+					],
+					[
+						"idf",
+						"idfield"
+					],
+					[
+						"lbget",
+						"lbGetUiSecSelBean"
+					],
+					[
+						"sl",
+						"slrecentdocs"
+					],
+					[
+						"output",
+						"output=\"true\"\toutput"
+					],
+					[
+						"table",
+						"html.table\tfn. (ColdBox html)"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "exp",
+				"selected_items":
+				[
+					[
+						"exp",
+						"ExportHtml: Settings"
+					],
+					[
+						"pag",
+						"Package Control: Install Package"
+					],
+					[
+						"expor",
+						"Export to HTML: Show Export Menu"
+					],
+					[
+						"expo",
+						"Export to HTML: Show Export Menu"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"line",
+						"Line Endings Unify"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: sati",
+						"Package Control: Satisfy Dependencies"
+					],
+					[
+						"install package",
+						"Package Control: Install Package"
+					],
+					[
+						"print",
+						"Preferences: SublimeLinter Settings – Default"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"dis",
+						"Package Control: Disable Package"
+					],
+					[
+						"disa",
+						"Package Control: Disable Package"
+					],
+					[
+						"disab",
+						"Package Control: Disable Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 476.0
+			},
+			"console":
+			{
+				"height": 258.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/dbellenger/AppData/Local/Temp/tmp426kqm.html",
+				"/C/Users/dbellenger/AppData/Local/Temp/tmpfrmobj.html",
+				"/C/projects/cbsites/CF2016/pms-es/logs/modules/calendar.log",
+				"/C/projects/cbsites/CF2016/pms-es/modules/fileexchange/models/m_fe_browse_DAO.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/calendar/models/m_calusersnap_DAO.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/calendar/models/m_cl_DAO.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/calendar/includes/js/calendar.js",
+				"/C/Users/dbellenger/Documents/ColdFusionSettings/.CFConfig09122017.json",
+				"/C/projects/cbsites/CF2016/go.boxr",
+				"/C/Users/dbellenger/Documents/ColdFusionSettings/importCFConfig09122017.ps1",
+				"/C/Users/dbellenger/Documents/WindowsPowerShell/Microsoft.PowerShell_profile.ps1",
+				"/C/projects/cbsites/CF2016/pms-es/modules/calendar/includes/js/calendarlu.js",
+				"/C/projects/cbsites/CF2016/pms-es/modules/calendar/models/m_calendar_DAO.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/calendar/handlers/calusersnap.cfc",
+				"//192.168.50.49/e/websites/cbsites/localdevci/pms-es/modules/calendar/includes/js/calendarlu.js",
+				"/C/Users/dbellenger/Documents/NAVSEA/DevNotes/PMSESCB_TEST/PMSESCB_TEST/4_CALEVT.sql",
+				"/C/Users/dbellenger/Documents/ColdFusionSettings/.CFConfig.json",
+				"/C/Users/dbellenger/Documents/ColdFusionSettings/importCFConfig.ps1",
+				"/C/Users/dbellenger/Documents/ColdFusionSettings/importCFConfig09122017orig.ps1",
+				"/C/projects/cbsites/CF2016/pms-es/modules/calendar/handlers/calevt.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/calendar/includes/helpers/calendarJSHelper.cfm",
+				"/C/projects/cbsites/CF2016/pms-es/modules/calendar/includes/js/calfile.js",
+				"/C/projects/cbsites/CF11/server-CF11.json",
+				"/C/projects/cbsites/CF2016/server-cf2016.json",
+				"/C/projects/cbsites/CF2016/pms-es/modules/calendar/models/m_cl_main.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/calendar/views/v_calendar_home.cfm",
+				"/C/projects/cbsites/CF2016/pms-es/modules/calendar/handlers/calendar.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/calendar/handlers/main.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/calendar/includes/js/calusersnap.js",
+				"/C/projects/cbsites/CF2016/pms-es/modules/calendar/includes/js/calendarutility2.js",
+				"/C/projects/cbsites/CF2016/pms-es/modules/calendar/models/beans/calendarBean.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/calendar/handlers/req.cfc",
+				"//192.168.50.49/e/websites/cbsites/localdevci/pms-es/logs/modules/calendar.log",
+				"/C/Users/dbellenger/.CommandBox/logs/commandbox.log",
+				"/C/projects/cbsites/CF2016/pms-es/modules/calendar/handlers/clBaseHandler.cfc",
+				"/C/Users/dbellenger/AppData/Local/Temp/tmpf1e60n.html",
+				"/C/Users/dbellenger/AppData/Local/Temp/tmp3xt00d.html",
+				"/C/Users/dbellenger/AppData/Local/Temp/tmpdu2z7r.html",
+				"/c/users/dbelle~1/appdata/local/temp/tmpb53d2f.html",
+				"/C/Users/dbellenger/AppData/Local/Temp/tmpydr9ij.html",
+				"/C/Users/dbellenger/AppData/Local/Temp/tmpeweg1t.html",
+				"/C/Users/dbellenger/AppData/Local/Temp/tmphpcbm2.html",
+				"/C/projects/cbsites/CF2016/pms-es/modules/fileexchange/handlers/convfefolder.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/fileexchange/includes/js/fefolder.js",
+				"/C/projects/cbsites/CF2016/pms-es/Application.cfc",
+				"/C/Users/dbellenger/.CommandBox/server/BD99047899392C3F4945F8EE9711AA64-cf2016/trayOptions.json",
+				"/C/projects/cbsites/CF2016/pms-es/models/beans/responseBean.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/logs/modules/library.log",
+				"/C/projects/cbsites/CF2016/pms-es/modules/library/models/m_lb_home_DAO.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/library/handlers/document.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/library/handlers/lbbrowse.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/library/handlers/lbfolder.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/library/handlers/lbhome.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/library/handlers/lbhomexxx.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/library/handlers/lbsearch.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/library/handlers/main.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/library/handlers/version.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/library/includes/helpers/testsamples.cfm",
+				"/C/projects/cbsites/CF2016/pms-es/modules/library/models/m_document.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/library/includes/js/document.js",
+				"/C/projects/cbsites/CF2016/pms-es/modules/library/models/m_document_DAO.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/library/models/m_lb_browse.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/library/models/m_lb_browse_DAO.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/library/models/m_lb_folder.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/library/models/m_lb_home.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/library/models/m_version_DAO.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/fileexchange/handlers/fefile.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/fileexchange/handlers/fefolder.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/fileexchange/handlers/fehome.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/fileexchange/handlers/fesearch.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/fileexchange/includes/js/fefile.js",
+				"/C/projects/cbsites/CF2016/pms-es/modules/fileexchange/includes/js/fesearch.js",
+				"/C/projects/cbsites/CF2016/pms-es/modules/fileexchange/models/m_fe_email.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/fileexchange/models/m_fe_folder.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/fileexchange/models/m_fe_folder_DAO.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/fileexchange/models/m_fe_home.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/fileexchange/models/m_fe_home_DAO.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/fileexchange/models/m_fe_search_DAO.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/fileexchange/models/m_fefile_DAO.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/library/includes/js/lbfolder.js",
+				"/C/projects/cbsites/CF2016/pms-es/modules/library/includes/js/lbsearch.js",
+				"/C/projects/cbsites/CF2016/pms-es/modules/library/includes/js/version.js",
+				"/C/projects/cbsites/CF2016/pms-es/modules/library/models/m_lb_folder_DAO.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/library/models/m_lb_search_DAO.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/library/models/m_version.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/calendar/handlers/calfile.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/calendar/models/m_calendar_email.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/calendar/models/m_calfile.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/calendar/models/m_calfile_DAO.cfc",
+				"/C/Users/dbellenger/Documents/NAVSEA/Commandbox instructions/arguments fails in 2016.cfm",
+				"/C/Users/dbellenger/Documents/NAVSEA/Commandbox instructions/TryCF.com.html",
+				"/C/projects/cbsites/CF2016/pms-es/modules/fileexchange/handlers/febrowse.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/models/m_functions.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/models/m_calfillib.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/calendar/models/m_cl_utility_DAO.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/calendar/handlers/calutility.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/logs/modules/fileexchange.log",
+				"/C/projects/cbsites/CF2016/pms-es/modules/fileexchange/handlers/feutility.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/logs/security.log",
+				"/C/projects/cbsites/CF2016/pms-es/logs/modules/navigation.log",
+				"/C/projects/cbsites/CF2016/pms-es/views/v_landing.cfm",
+				"/C/projects/cbsites/CF2016/pms-es/modules/navigation/includes/js/nav_project.js",
+				"/C/projects/cbsites/CF2016/pms-es/logs/system.log",
+				"/C/projects/cbsites/CF2016/pms-es/logs/response.log",
+				"/C/projects/cbsites/CF2016/pms-es/logs/modules/admin.log",
+				"/C/projects/cbsites/CF2016/pms-es/modules/navigation/models/m_navigation.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/interceptors/userSession.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/calendar/models/ousertovars.cfm",
+				"//192.168.50.49/e/websites/cbsites/localdev/pms-es/logs/modules/navigation.log",
+				"//192.168.50.49/e/websites/cbsites/localdev/pms-es/logs/modules/calendar.log",
+				"//192.168.50.49/e/websites/cbsites/localdev/pms-es/logs/modules/email.log",
+				"/C/projects/cbsites/CF2016/pms-es/config/Coldbox.cfc",
+				"/C/boxtest1/handlers/Main.cfc",
+				"//192.168.50.49/d/ColdBox_logs/modules/calendar.log",
+				"/C/ColdFusion11/cfusion/wwwroot/pms-es/logs/modules/calendar.log",
+				"//192.168.50.49/e/websites/cbsites/localdev/pms-es/Application.cfc",
+				"/C/ColdFusion11/cfusion/wwwroot/pms-es/Application.cfc",
+				"/C/ColdFusion11/cfusion/wwwroot/pms-es/config/WireBox.cfc",
+				"/C/ColdFusion11/cfusion/wwwroot/pms-es/includes/js/common.js",
+				"/C/ColdFusion11/cfusion/wwwroot/pms-es - backups/pms-es - 201706161201 before merge with localdev/includes/js/common.js",
+				"/C/ColdFusion11/cfusion/wwwroot/pms-es/modules/filemgmt/handlers/main.cfc",
+				"/C/ColdFusion11/cfusion/wwwroot/dontest/ben1.cfm",
+				"/C/tmp/jsongood.cfm",
+				"/C/tmp/jsonbad.cfm",
+				"/C/ColdFusion11/cfusion/wwwroot/pms-es/modules/calendar/includes/js/calendarutility2.js",
+				"/C/ColdFusion11/cfusion/wwwroot/pms-es/modules/calendar/layouts/lay_calendar_main.cfm",
+				"/C/ColdFusion11/cfusion/wwwroot/pms-es/modules/qa/handlers/main.cfc",
+				"/C/ColdFusion11/cfusion/wwwroot/pms-es/modules/calendar/handlers/main.cfc"
+			],
+			"find":
+			{
+				"height": 44.0
+			},
+			"find_in_files":
+			{
+				"height": 113.0,
+				"where_history":
+				[
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\modules\\fileexchange\\,-*.log",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\modules\\fileexchange\\,*.js",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\modules\\fileexchange\\,-*.log",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\modules\\calendar\\,-*.log",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\,-*.log",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\modules\\calendar\\,-*.log",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\modules\\calendar\\handlers,-*.log",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\modules\\calendar,-*.log",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\modules\\calendar,*.js",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\modules\\calendar,-*.log",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\modules\\calendar,*.js",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\modules\\calendar,-*.log",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\,-*.log",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\,*.js",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\modules\\calendar,*.js",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\modules\\calendar,-*.js",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\modules\\calendar,-*.log",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\modules\\fileexchange,-*.log",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\modules\\library,-*.log",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\modules\\calendar,-*.log",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\,*.cfm,*.cfc",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\,-*.log,-*.js,-*.html,-*.png,-*.gif,-*.jpg,-*.woff*,-*.sw*",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\,-*.log,-*.js,-*.html,-*.png,-*.gif,-*.jpg,-*.woff*",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\,-*.log,-*.js,-*.html,-*.png,-*.gif",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\,-*.log,-*.js,-*.html",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\,-*.log,-*.js",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\,-*.log",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\modules\\library,-*.log",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\,-*.log",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\modules\\calendar,-*.log",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\modules\\library,-*.log",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\modules\\fileexchange,-*.log",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\modules\\library,-*.log",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\,-*.log",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\modules\\calendar,-*.log",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\modules\\library,-*.log",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\modules\\fileexchange,-*.log",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\modules\\calendar,-*.log",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\,-*.log",
+					"C:\\ColdFusion2016\\cfusion\\wwwroot\\pms-es\\,-*.log",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\,-*.log",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\calendar,-*.log",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\calendar,-*.log",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\calendar,-*.log",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\calendar",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\calendar",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\calendar",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\calendar",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\calendar",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\calendar",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\calendar",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\calendar",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\calendar",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\models",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library,-*.log",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library,*.css",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\,-*.log",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library,*.css",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\,*.js",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library,-*.log",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library, *.css",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library, -*.log",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library, *.cfc",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library, -*.log",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library, *.css",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library, -*.log",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\, -*.log",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library, -*.log",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\, -*.log",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library, -*.log",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\, -*.log",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\, lay*.cfm",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\, layout*.cfm",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\, -*.log",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library, -*.log",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library, *.js",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library, -*.log",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\sam, -*.log",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library, -*.log",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\, -*.log",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library, -*.log",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library, *.js",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library, -*.log",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\, -*.log",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\, -*.log",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library, -*.log",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\simplecrudwithrest, -*.log,-*.html",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\calendar, -*.log,-*.html",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library, -*.log,-*.html",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\calendar, -*.log,-*.html",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library, -*.log,-*.html",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\, -*.log,-*.html",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library, -*.log,-*.html",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\calendar, -*.log,-*.html",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library, -*.log,-*.html",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\calendar, -*.log,-*.html",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es, -*.log,-*.html",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\calendar, -*.log,-*.html",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es, -*.log,-*.html",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\calendar, -*.log,-*.html",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library, -*.log,-*.html",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\calendar, -*.log,-*.html",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\, -*.log,-*.html",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library, -*.log,-*.html",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\, -*.log,-*.html",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library, -*.log,-*.html",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\librarypseudo, -*.log,-*.html",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\calendar, -*.log,-*.html",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library, -*.log,-*.html",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\calendar, -*.log,-*.html",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\, -*.log,-*.html",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\, -*.log,-*.html,-*.js",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\, -*.log,-*.html",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library, -*.log,-*.html",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\calendar, -*.log,-*.html",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library, -*.log,-*.html",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\calendar, -*.log,-*.html"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"async:",
+					"sRet",
+					"sRret",
+					"sret",
+					"showEventsinCalendar",
+					"list",
+					"as favorite",
+					"hasattachment",
+					"calevtsnap",
+					"error",
+					"placeOneEvent",
+					"tCalEvt",
+					"placeOneEvent",
+					"showEventsinCalendar",
+					"displayhome",
+					"calendarId",
+					"ensureCalendarisViewed",
+					"get_acalendaris",
+					"saveCalendar",
+					"save",
+					"snap",
+					"possibly",
+					"delete",
+					"program_library",
+					"privSetSpecial Special",
+					"lastNormal",
+					"convertCalUserSnaptodVars",
+					"function",
+					"ensureCalendarisViewed",
+					"saveCalUserSnap",
+					"queryExecute",
+					"in get_aCalendarIsViewed",
+					"get_aCalendarIsViewed",
+					"param 1",
+					"in get_aCalendarIsViewed",
+					"CalendarIsViewed",
+					"ensure",
+					"clUserSnapDAO.save",
+					"ensureCalendarisViewed",
+					"convertCalUserSnaptodVars",
+					"saveCalUserSnap",
+					"getuserId",
+					"scmd",
+					"ensureCalendarisViewed",
+					"async:",
+					"$.ajax(",
+					"getjq",
+					"btnsavecalendar",
+					"placeOneEvent",
+					"showEventsinCalendar",
+					"chkallday",
+					"CalEvtViewOne",
+					"privBuildEditCalEvtModalForm",
+					"in calEvtViewOne, tCalEvt",
+					"save",
+					"savecalevt",
+					"save",
+					"defaultCalendarId",
+					"calendarId",
+					"showDeveloperMenu",
+					"defaultCalendarId",
+					"defaultCalUserSnapId",
+					"defaultCalendarId",
+					"privBuildCalUserSnapList",
+					"defaultcalusersnapid",
+					"xxx",
+					"home",
+					"input",
+					"defaultCalUserSnapId",
+					"initHomeView",
+					"In main.cfc(home), defaultCalUserSnapId",
+					"caluserviewid",
+					"getValUsingJqSelector",
+					"postDefaultCalUserSnapId",
+					"post",
+					"postDefaultCalUserSnapId",
+					"defaultcalusersnapid",
+					"btnsave",
+					"endcalendar",
+					"compiled to end",
+					"btnsave",
+					"save",
+					"into addcalevt",
+					"privBuildSelectedCalUserSnapSelect",
+					"qCalUserSnaps",
+					"get_qCalUserSnaps",
+					"qCalUserSnaps",
+					"fcalevtmodal",
+					"endcalendarlu",
+					"getcal",
+					"#",
+					"setCalUserSnapId",
+					"sBuildCalUserSnapList",
+					"setCalUserSnapId",
+					"ViewUserSnapList",
+					"defaultCalUserSnapId",
+					"setCalUserSnapId",
+					"editcalusersnapmodal",
+					"editcalusersnap",
+					"defaultCalUserSnapId",
+					"ViewUserSnapList",
+					"glCalUserSnapId",
+					"setcalusersnapid",
+					"getcalusersnapid",
+					"getusername",
+					"dumpTableList",
+					"showDeveloperMenu",
+					"dumptablelist",
+					"getusername",
+					"setusername",
+					"getusername",
+					"targetui",
+					"checkCalendarFormErrors",
+					"countDuplicateCalendars",
+					"countdupli",
+					"async:",
+					"setCalUserSnapId",
+					"showeventsincalendar",
+					"sBuildCalUserSnapList",
+					"displayHomePage",
+					"initHomeView",
+					"showeventsincalendar",
+					"arguments",
+					"?:",
+					"arguments.rc",
+					"Back from getqProjFolders",
+					"in BUILDEDITDOCUMENTMODALFORM",
+					"get_aDocumentVersions"
+				],
+				"highlight": false,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"dualSaveDefaultCalUserSnapId",
+					"rc.",
+					"rc",
+					"rc.",
+					"thePhaseId",
+					"calendarId",
+					"cal",
+					"aCalUserSnaps",
+					"theSinglePhaseId",
+					"phaseId",
+					"calPhase",
+					"c.",
+					"calendarId",
+					"cal",
+					"qUserFavFolder",
+					"qUserFavFolders",
+					"pg_lu",
+					"ErrorStruct",
+					"searchTable",
+					"SearchData",
+					"lbMain",
+					"submitterId",
+					"getValUsingJqSelector",
+					"CALUSER",
+					"CALNOTIFUNIT_LU",
+					"CALNOTIFMETHOD_LU",
+					"CALEVTUSERNOTIF",
+					"CALEVTCALENDAR",
+					"CALENDAR_LU",
+					"m_calendar_base",
+					"common.sAlwaysList",
+					"common.WriteErrorDetails",
+					"#,",
+					"getCalTimeZone",
+					"*",
+					"pseudolink",
+					"jqueryExample",
+					"basicExample",
+					"CalEvt",
+					"flbCalEvtUpdate",
+					"oUser",
+					"oCalendar",
+					"AddEvt",
+					"oCalendar",
+					"oUser",
+					"tBuildSearchTable",
+					"slFileTypeIds",
+					"slSelectedFileTypes",
+					"slFileTypeIds",
+					"FILETYPEID",
+					"fileTypeId",
+					"selectedFileTypes",
+					"SelectedFileTypes",
+					"SELECTEDFILETYPES",
+					"qFileTypes",
+					"clCommon",
+					"clcommon",
+					"calendar",
+					"objCalendar",
+					"calendar",
+					"objCalendar",
+					"calendar",
+					"objCalendar",
+					"sDebugMsg",
+					"sBuildBrowseHTML",
+					"SBUILDBROWSEHTML",
+					"CFSAVECONTENT",
+					"btn-primaryx",
+					"lbCommon.WriteErrorDetails",
+					"local.",
+					"if (",
+					"}",
+					";",
+					"",
+					"//",
+					"UIDocSecurity",
+					"sessionSecBean",
+					"getUiDocumentSecurity",
+					"prc.uiDocumentSecurity",
+					"uiSecEmptyBean",
+					"objUser",
+					"",
+					"// ",
+					"",
+					"SRET",
+					"sRet",
+					"sBuildSearchTable",
+					"aorigmap",
+					"tResponse",
+					" />",
+					"<cfproperty",
+					"BuildLbVersionTableDiv",
+					"filesize",
+					"sCogFromPhrase",
+					"sCogJoinPhrase",
+					"qFolder",
+					"aFolders",
+					"qModifiers",
+					"modifiedByUserId",
+					"selectedModifiedByUserIds",
+					"slModifiedByUserIds",
+					"keywordId",
+					"qTags",
+					"slkeywordIds",
+					"tDateModifiedPair",
+					"FileSizes",
+					"SelectedFileSize",
+					"LbFileTypes",
+					"getsSearchFormVars",
+					"qSetProjFolders",
+					"sGetSearchFormVars",
+					"qGetProjFolders",
+					"tVars",
+					"BuildEditDocumentModalForm",
+					"lbBuildEditDocumentModalForm",
+					"docIsInCollection",
+					"CollViewDetails",
+					"DocDetails",
+					"get",
+					"variables.",
+					"property",
+					"objLibrary",
+					"targetUI",
+					"where",
+					"calendar",
+					"cl",
+					"clCommon",
+					"clDAO"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 31.0
+			},
+			"input":
+			{
+				"height": 39.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 58.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"layout_lib",
+						"modules\\library\\layouts\\lay_library_main.cfm"
+					],
+					[
+						"m_lib_",
+						"modules\\library\\models\\m_lib_base.cfc"
+					],
+					[
+						"library.log",
+						"logs\\modules\\library.log"
+					],
+					[
+						"jsolder",
+						"modules\\library\\includes\\js\\libraryolder.js"
+					],
+					[
+						"browse",
+						"modules\\library\\views\\v_library_browse.cfm"
+					],
+					[
+						"gitign",
+						".gitignore"
+					],
+					[
+						"main.c",
+						"handlers\\main.cfc"
+					],
+					[
+						"main",
+						"handlers\\main.cfc"
+					],
+					[
+						"getinsta",
+						"modules\\cbstorages\\apidocs\\cbstorages\\SessionStorage.html"
+					],
+					[
+						"users",
+						"interceptors\\userSession.cfc"
+					],
+					[
+						"install",
+						"modules\\actionItems\\views\\submit_action_item_assignor\\listAllActionItems.cfm"
+					],
+					[
+						"userdao",
+						"modules\\admin\\models\\m_admin_userDAO.cfc"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-escb2\\pmsescb2.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 290.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1006.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"calUser",
+						"calUserSnapId"
+					],
+					[
+						"modul",
+						"moduleMapping"
+					],
+					[
+						"ma",
+						"maxlength\tAttr"
+					],
+					[
+						"cfsc",
+						"cfscript\tTag (cmfl)"
+					],
+					[
+						"librar",
+						"libraryId"
+					],
+					[
+						"lbF",
+						"lbFolder"
+					],
+					[
+						"query",
+						"queryExecute"
+					],
+					[
+						"ver",
+						"verLabel1"
+					],
+					[
+						"verlab",
+						"verLabel2"
+					],
+					[
+						"parent",
+						"parentlbFolderId〔variable〕"
+					],
+					[
+						"lbFol",
+						"lbFolderId〔variable〕"
+					],
+					[
+						"stru",
+						"structKeyExists"
+					],
+					[
+						"type",
+						"typeof〔keyword〕"
+					],
+					[
+						"doc",
+						"docIsInCollection"
+					],
+					[
+						"getl",
+						"getSessionLastFolderId"
+					],
+					[
+						"return",
+						"returnLocation"
+					],
+					[
+						"q",
+						"query"
+					],
+					[
+						"lbFolder",
+						"lbFolderName"
+					],
+					[
+						"parentlb",
+						"parentlbFolderId"
+					],
+					[
+						"parentFol",
+						"parentlbFolderId"
+					],
+					[
+						"lbfolder",
+						"lbFolderId"
+					],
+					[
+						"witin",
+						"withinCollection"
+					],
+					[
+						"within",
+						"withinCollection"
+					],
+					[
+						"delete",
+						"deleteSubsidiaryFiles"
+					],
+					[
+						"mod",
+						"modifiedbyuserid"
+					],
+					[
+						"lbDoc",
+						"lbDocId"
+					],
+					[
+						"tq",
+						"tqresult.sql"
+					],
+					[
+						"lbVer",
+						"lbVerId"
+					],
+					[
+						"parent_lbdoc",
+						"parent_lbdocId"
+					],
+					[
+						"lbfol",
+						"lbFolderId"
+					],
+					[
+						"lbDo",
+						"lbDocId"
+					],
+					[
+						"theUser",
+						"theUserId"
+					],
+					[
+						"parent_",
+						"parent_lbdocid"
+					],
+					[
+						"parentl",
+						"parentlbDocId"
+					],
+					[
+						"down",
+						"downloadID"
+					],
+					[
+						"recor",
+						"recordCount"
+					],
+					[
+						"lbdoc",
+						"lbDocId"
+					],
+					[
+						"lbv",
+						"lbVerId"
+					],
+					[
+						"sDate",
+						"sDateToUse"
+					],
+					[
+						"lbFold",
+						"lbFolderId"
+					],
+					[
+						"origina",
+						"originatorId"
+					],
+					[
+						"lbFOlder",
+						"lbFolderId"
+					],
+					[
+						"originat",
+						"originatorId"
+					],
+					[
+						"lbdo",
+						"lbDocId"
+					],
+					[
+						"tsecur",
+						"tSecurity.cogs"
+					],
+					[
+						"sls",
+						"slshipIds"
+					],
+					[
+						"lb",
+						"lbAccess"
+					],
+					[
+						"v_library_uiSecSel",
+						"v_library_uiSecSel.cfm"
+					],
+					[
+						"idf",
+						"idfield"
+					],
+					[
+						"lbget",
+						"lbGetUiSecSelBean"
+					],
+					[
+						"sl",
+						"slrecentdocs"
+					],
+					[
+						"output",
+						"output=\"true\"\toutput"
+					],
+					[
+						"table",
+						"html.table\tfn. (ColdBox html)"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "modules/calendar/includes/js/calendar.js",
+					"settings":
+					{
+						"buffer_size": 14739,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "Searching 60 files for \"gettargetuiandfolderid\"\n\nC:\\projects\\cbsites\\CF2016\\pms-es\\modules\\fileexchange\\handlers\\req.cfc:\n   21  } // getErrorEnvironment\n   22  \n   23: remote any function getTargetUIandFolderID (  ){\n   24: \tvar sRet = prc.oFileExchange.getTargetUIandFolderID (  );\n   25  \tevent.renderData (type=\"json\",data=SerializeJSON (sRet) );\n   26: } // getTargetUIandFolderID\n   27  \n   28  remote any function getUserId ( ){\n\nC:\\projects\\cbsites\\CF2016\\pms-es\\modules\\fileexchange\\includes\\helpers\\feJSHelper.cfm:\n   64  \n   65  \n   66: function getTargetUIandFolderID ( ) {\n   67  \n   68: \tvar sUrlTarget = sfeBeanURL + 'getTargetUIandFolderID';\n   69  \tvar oRet='';\n   70  \n   ..\n   85  \t// this is OK ONLY because this is a synchronous call\n   86  \n   87: \tconsole.log('feJSHelper getTargetUIandFolderID is returning oRet STRUCTURE after synchronous call');\n   88  \treturn \toRet;\n   89: } // getTargetUIandFolderID\n   90  \n   91  function getUserName ( ) {\n\nC:\\projects\\cbsites\\CF2016\\pms-es\\modules\\fileexchange\\models\\beans\\feBean.cfc:\n  153  } // settfeFileSecDataNew\n  154  \n  155: function getTargetUIandFolderID ( ) {\n  156  \n  157      var tRet = {};\n  158:     log.debug('Into getTargetUIandFolderID in feBean');\n  159      tRet.targetUI = variables.targetUI;\n  160      tRet.targetFolderId = variables.targetFolderId;\n  ...\n  162      tRet.prevtargetFolderId = variables.prevtargetFolderId;\n  163      var xxx = serializeJSON(tRet);\n  164:     log.debug('getTargetUIandFolderID in feBean returning tRet #xxx#');\n  165      return tRet;\n  166  \n  167: }  // getTargetUIandFolderID\n  168  \n  169  function setTargetUIandFolderID ( targetUI, targetFolderId) {\n\n11 matches across 3 files\n\n\nSearching 60 files for \"targetui\"\n\nC:\\projects\\cbsites\\CF2016\\pms-es\\modules\\fileexchange\\handlers\\febrowse.cfc:\n   18  \trc.appevent = 'browse'&rc.id;\n   19  \n   20: \t// set session targetUI to 'Browse', folderId\n   21  \n   22: \tlog.debug('febrowse/browse() calling setTargetUIandFolderId');\n   23: \tprc.oFileExchange.setTargetUIandFolderID ('Browse', rc.id);\n   24  \n   25  \tvar sFace = '<span class=''downloadIcon glyphicon glyphicon-plus'' >Folder</span>';\n\nC:\\projects\\cbsites\\CF2016\\pms-es\\modules\\fileexchange\\handlers\\fesearch.cfc:\n   12  \tinclude \"/#event.getModuleRoot()#/includes/helpers/setDebugLevel.cfm\";\n   13  \n   14: \t// set session targetUI to 'Home' ???;\n   15: \tprc.oFileExchange.setTargetUI ('Search');\n   16  \n   17  \t// set list of folders in session scope, in case user has navigated in top banner. prc.oUser and prc.oFileExchange are defined in the prehandler\n   ..\n   48  \t<cfset rc.appevent = 'feFileViewDetails'>\n   49  \n   50: \t<!--- set session targetUI to 'DocDetails' --->\n   51: \t<cfset prc.oFileExchange.setTargetUI ('DocDetails')>\n   52  \t<!--- normal flow to the v_fe_docDetails page --->\n   53  \t<cfset event.setView(view=\"v_fe_docDetails\", layout=\"#mylayout#\", module=\"fileexchange\")>\n\nC:\\projects\\cbsites\\CF2016\\pms-es\\modules\\fileexchange\\handlers\\main.cfc:\n   46  \t}\n   47  \n   48: \t// set SESSION targetUI to 'Home';\n   49: \tprc.oFileExchange.setTargetUI ('Home');\n   50  \n   51  \t// set the userId for the calls to session for preferences\n\nC:\\projects\\cbsites\\CF2016\\pms-es\\modules\\fileexchange\\handlers\\req.cfc:\n   21  } // getErrorEnvironment\n   22  \n   23: remote any function getTargetUIandFolderID (  ){\n   24: \tvar sRet = prc.oFileExchange.getTargetUIandFolderID (  );\n   25  \tevent.renderData (type=\"json\",data=SerializeJSON (sRet) );\n   26: } // getTargetUIandFolderID\n   27  \n   28  remote any function getUserId ( ){\n\nC:\\projects\\cbsites\\CF2016\\pms-es\\modules\\fileexchange\\includes\\helpers\\feJSHelper.cfm:\n   64  \n   65  \n   66: function getTargetUIandFolderID ( ) {\n   67  \n   68: \tvar sUrlTarget = sfeBeanURL + 'getTargetUIandFolderID';\n   69  \tvar oRet='';\n   70  \n   ..\n   85  \t// this is OK ONLY because this is a synchronous call\n   86  \n   87: \tconsole.log('feJSHelper getTargetUIandFolderID is returning oRet STRUCTURE after synchronous call');\n   88  \treturn \toRet;\n   89: } // getTargetUIandFolderID\n   90  \n   91  function getUserName ( ) {\n\nC:\\projects\\cbsites\\CF2016\\pms-es\\modules\\fileexchange\\includes\\js\\fefolder.js:\n  221  \t\t\t\tcloseModal();\n  222  \n  223: \t\t\t\tvar targetUI = 'Browse' ;\n  224: \t\t\t\tglalrt ('processing btnSaveFeFolder, targetUI ' + targetUI + ', parentfeFolderId ' + parentfeFolderId + ', addorupdate ' + addorupdate );\n  225  \n  226  \t\t\t\tif ( addorupdate == 'Add' ) {\n\nC:\\projects\\cbsites\\CF2016\\pms-es\\modules\\fileexchange\\includes\\js\\fesearch.js:\n  126  \n  127  \t// there is no view for the SearchModal\n  128: \tvar targetUI = getValUsingJqSelector ( \"#targetUI\", 'Home' );\n  129  \n  130  \t// arguments: getOrPost, title, action (url), buttonId (list), buttonTxt (list), init funct in quotes, iframeId, loadInParent, errfunct in quotes, errlevel\n  ...\n  132  \tglalrt('in showSearchModal');\n  133  \tcreateRestfulActionModal(\n  134: \t\t'post', 'Search' , 'index.cfm/fileexchange/fesearch/SearchModal/targetUI/' + targetUI\n  135  \t\t, 'btnDoSearch,btnClearSearch' , 'Search,Clear Form'\n  136  \t\t, 'initSearchModal' , '' , ''\n  ...\n  144  function clearSearchModalForm () {\n  145  \n  146: \tvar targetUI = getValUsingJqSelector ( \"#targetUI\", 'Home' );\n  147  \n  148  \t// arguments: getOrPost, title, action (url), buttonId (list), buttonTxt (list), init funct in quotes, iframeId, loadInParent, errfunct in quotes, errlevel\n  149  \tcreateRestfulActionModal(\n  150: \t\t'post', 'Search' , 'index.cfm/fileexchange/fesearch/clearSearchModalForm/targetUI/' + targetUI\n  151  \t\t, 'btnDoSearch,btnClearSearch' , 'Search,Clear Form'\n  152  \t\t, 'initSearchModal' , '' , ''\n\nC:\\projects\\cbsites\\CF2016\\pms-es\\modules\\fileexchange\\models\\beans\\feBean.cfc:\n   13  property name=\"logPath\" type=\"string\";\n   14  \n   15: variables.targetUI = 'Home';\n   16  variables.targetFolderId = 0;\n   17  \n   18: variables.prevtargetUI = 'Home';\n   19  variables.prevtargetFolderId = 0;\n   20  \n   ..\n  153  } // settfeFileSecDataNew\n  154  \n  155: function getTargetUIandFolderID ( ) {\n  156  \n  157      var tRet = {};\n  158:     log.debug('Into getTargetUIandFolderID in feBean');\n  159:     tRet.targetUI = variables.targetUI;\n  160      tRet.targetFolderId = variables.targetFolderId;\n  161:     tRet.prevtargetUI = variables.prevtargetUI;\n  162      tRet.prevtargetFolderId = variables.prevtargetFolderId;\n  163      var xxx = serializeJSON(tRet);\n  164:     log.debug('getTargetUIandFolderID in feBean returning tRet #xxx#');\n  165      return tRet;\n  166  \n  167: }  // getTargetUIandFolderID\n  168  \n  169: function setTargetUIandFolderID ( targetUI, targetFolderId) {\n  170  \n  171:     // log.debug('setTargetUIandFolderID setting targetUI = #targetUI#, targetFolderId = #targetFolderId# ');\n  172:     variables.prevtargetUI = variables.targetUI;\n  173      variables.prevtargetFolderId = variables.targetFolderId;\n  174  \n  175:     variables.targetUI = arguments.targetUI;\n  176      variables.targetFolderId = arguments.targetFolderId;\n  177  \n  178: }  // settargetUIandFolderID\n  179  \n  180: function setTargetUI ( targetUI) {\n  181:     // log.debug('setTargetUI setting targetUI = #targetUI#');\n  182:     variables.prevtargetUI = variables.targetUI;\n  183:     variables.targetUI = arguments.targetUI;\n  184: } // setTargetUI\n  185  \n  186  // FOLDERS\n\nC:\\projects\\cbsites\\CF2016\\pms-es\\modules\\fileexchange\\models\\m_fe_browse_DAO.cfc:\n   37  \tlog.debug('in tGetBrowseArrays, tVars=' & tVars);\n   38  \n   39: \t// set session targetUI to 'Browse', folderId\n   40: \targuments.oFileExchange.setTargetUIandFolderID ('Browse', targetFolderId );\n   41  \n   42  \t// use threading, or not.  Set to 0 for debugging\n\nC:\\projects\\cbsites\\CF2016\\pms-es\\modules\\fileexchange\\models\\m_fe_common.cfc:\n  582  \ttRet.sdateCreatedTo = tSearchVars.datecreatedto ?: '';\n  583  \ttRet.selectedCreatedByUserIds = tSearchVars.selectedCreatedByUserIds ?: '';\n  584: \ttRet.targetUI = tSearchVars.targetUI ?: 'Home' ;\n  585  \ttRet.feFolderId = tSearchVars.folder ?: 0 ;\n  586  \ttRet.fileName = tSearchVars.fileName ?: '' ;\n\nC:\\projects\\cbsites\\CF2016\\pms-es\\modules\\fileexchange\\models\\m_fe_search.cfc:\n  107  \t// the hidden text date fields are for the (obsolete) datePair implementation\n  108  \tsRet &= '</div></div>\n  109: \t<input type=\"hidden\" name=\"targetUI\" id=\"targetUI\" value=\"#tSearchVars.targetUI#\">\n  110  \t<input type=\"hidden\" name=\"sdateCreatedFrom\" id=\"sdateCreatedFrom\" value=\"#tSearchVars.sdateCreatedFrom#\">\n  111  \t<input type=\"hidden\" name=\"sdateCreatedTo\" id=\"sdateCreatedTo\" value=\"#tSearchVars.sdateCreatedTo#\">\n\nC:\\projects\\cbsites\\CF2016\\pms-es\\modules\\fileexchange\\views\\v_fe_browse.cfm:\n   33  \t\t\t\t\t<input type=\"hidden\" name=\"showFileView\" id=\"showFileView\"  value=\"no\">\n   34  \n   35: \t\t\t\t\t<!--- targetUI is the location to return to after an update --->\n   36: \t\t\t\t\t<input type=\"hidden\" name=\"targetUI\" id=\"targetUI\"  value=\"Browse\">\n   37  \n   38  \t\t\t\t<!--- Set the default filter options --->\n\nC:\\projects\\cbsites\\CF2016\\pms-es\\modules\\fileexchange\\views\\v_fe_home.cfm:\n    7  \t<input type=\"hidden\" name=\"feFolderId\" id=\"feFolderId\" value=\"0\"/>\n    8  \t<input type=\"hidden\" name=\"homeErrorMsg\" id=\"homeErrorMsg\" value=\"#prc.homeErrorMsg#\"/>\n    9: \t<!--- targetUI is the location to return to after an update --->\n   10: \t<input type=\"hidden\" name=\"targetUI\" id=\"targetUI\"  value=\"Home\">\n   11  \t<!--- logged-in userid.  Populated by fehome.js buildRecentModified() --->\n   12  \t<input type=\"hidden\" name=\"userId\" id=\"userId\"  value=\"0\">\n\nC:\\projects\\cbsites\\CF2016\\pms-es\\modules\\fileexchange\\views\\v_fe_search.cfm:\n    9  \t<input type=\"hidden\" name=\"hiddenEvent\" id=\"hiddenEvent\" value=\"#rc.appevent#\"/>\n   10  \t<input type=\"hidden\" name=\"feFolderId\" id=\"feFolderId\" value=\"0\"/>\n   11: \t<!--- targetUI is the location to return to after an update --->\n   12: \t<input type=\"hidden\" name=\"targetUI\" id=\"targetUI\"  value=\"Home\">\n   13  \n   14  \t<!--- search is assumed to be a the top level of the folder tree --->\n\nC:\\projects\\cbsites\\CF2016\\pms-es\\modules\\fileexchange\\views\\v_fe_searchDT.cfm:\n    9  \t<input type=\"hidden\" name=\"hiddenEvent\" id=\"hiddenEvent\" value=\"#rc.appevent#\"/>\n   10  \t<input type=\"hidden\" name=\"feFolderId\" id=\"feFolderId\" value=\"0\"/>\n   11: \t<!--- targetUI is the location to return to after an update --->\n   12: \t<input type=\"hidden\" name=\"targetUI\" id=\"targetUI\"  value=\"Home\">\n   13  \n   14  \t<!--- search is assumed to be a the top level of the folder tree --->\n\n76 matches across 15 files\n\n\nSearching 40 files for \"dual\"\n\nC:\\projects\\cbsites\\CF2016\\pms-es\\modules\\calendar\\handlers\\calusersnap.cfc:\n  252  \n  253  \tsRet &= sNewRow & '&nbsp;</div><div class=\"noTableCell uptodate\"><div id=\"addNotification\" class=\"pseudolink\" style=\"display:block;text-align:left;\" title=\"Add a default notification for yourself for each event in this calendar\" onclick=\"addNotification(#tCalUserSnap.calUserSnapId#);\">Add a notification</div>\n  254: \t<div class=\"columnNote\" style=\"text-align:left;display:block;\">Unless otherwise specified in the individual event.</div></div></div>';\n  255  \n  256  \t// end of \"normal\" notifications\n\nC:\\projects\\cbsites\\CF2016\\pms-es\\modules\\calendar\\includes\\js\\calendar.js:\n  104  \tglalrt ('fSerialized (Note JSON format)' + fSerialized);\n  105  \tvar defaultCalUserSnapId = oForm.calUserSnap;\n  106: \tdualSaveDefaultCalUserSnapId( defaultCalUserSnapId );\n  107  \n  108  \t$.post('index.cfm/calendar/calevt/save',\n\nC:\\projects\\cbsites\\CF2016\\pms-es\\modules\\calendar\\includes\\js\\calusersnap.js:\n   36  \t}\n   37  \telse {\n   38: \t\tdualSaveDefaultCalUserSnapId ( calUserSnapId );\n   39  \n   40  \t\tcreateRestfulActionModal (\n   ..\n   51  } // editCalUserSnapModal\n   52  \n   53: function dualSaveDefaultCalUserSnapId ( defaultCalUserSnapId ) {\n   54  \t// post calUserSnapId async as defaultCalUserSnapId in CF\n   55  \tsetCalUserSnapId ( defaultCalUserSnapId );\n   56  \t// also, #defaultCalUserSnapId is immediately available in other JS calls\n   57  \t$('#defaultCalUserSnapId').val( defaultCalUserSnapId );\n   58: } // dualSaveDefaultCalUserSnapId\n   59  \n   60  function initEditCalUserSnapModal () {\n\n5 matches across 3 files\n\n\nSearching 40 files for \"dualSaveDefaultCalUserSnapId\"\n\nC:\\projects\\cbsites\\CF2016\\pms-es\\modules\\calendar\\includes\\js\\calendar.js:\n  104  \tglalrt ('fSerialized (Note JSON format)' + fSerialized);\n  105  \tvar defaultCalUserSnapId = oForm.calUserSnap;\n  106: \tdualSaveDefaultCalUserSnapId( defaultCalUserSnapId );\n  107  \n  108  \t$.post('index.cfm/calendar/calevt/save',\n\nC:\\projects\\cbsites\\CF2016\\pms-es\\modules\\calendar\\includes\\js\\calusersnap.js:\n   36  \t}\n   37  \telse {\n   38: \t\tdualSaveDefaultCalUserSnapId ( calUserSnapId );\n   39  \n   40  \t\tcreateRestfulActionModal (\n   ..\n   51  } // editCalUserSnapModal\n   52  \n   53: function dualSaveDefaultCalUserSnapId ( defaultCalUserSnapId ) {\n   54  \t// post calUserSnapId async as defaultCalUserSnapId in CF\n   55  \tsetCalUserSnapId ( defaultCalUserSnapId );\n   56  \t// also, #defaultCalUserSnapId is immediately available in other JS calls\n   57  \t$('#defaultCalUserSnapId').val( defaultCalUserSnapId );\n   58: } // dualSaveDefaultCalUserSnapId\n   59  \n   60  function initEditCalUserSnapModal () {\n\n4 matches across 2 files\n\n\nSearching 40 files for \"setCalUserSnapId\"\n\nC:\\projects\\cbsites\\CF2016\\pms-es\\modules\\calendar\\handlers\\main.cfc:\n   64  \tif ( defaultCalUserSnapId EQ '' ) {\n   65  \t\tdefaultCalUserSnapId = 0;\n   66: \t\tprc.oCalendar.setCalUserSnapId ( defaultCalUserSnapId );\n   67  \t}\n   68  \tprc.defaultCalUserSnapId = defaultCalUserSnapId;\n\nC:\\projects\\cbsites\\CF2016\\pms-es\\modules\\calendar\\handlers\\req.cfc:\n   48  } // getCalUserSnapId\n   49  \n   50: remote any function setCalUserSnapId ( calUserSnapId ){\n   51: \t// log.error('into req setCalUserSnapId #calUserSnapId#');\n   52  \t// getting a session variable from prc.oCalendar object for JS\n   53: \tvar sRet = prc.oCalendar.setCalUserSnapId ( calUserSnapId );\n   54  \tevent.renderData (type=\"json\",data=SerializeJSON (sRet) );\n   55: } // setCalUserSnapId\n   56  \n   57  remote any function getsSearchFormVars (  ){\n\nC:\\projects\\cbsites\\CF2016\\pms-es\\modules\\calendar\\includes\\helpers\\calendarJSHelper.cfm:\n   62  } // getCalUserSnapId\n   63  \n   64: function setCalUserSnapId ( calUserSnapId ) {\n   65  \t// this is now async!\n   66: \tvar sUrlTarget = sCalendarBeanURL + 'setCalUserSnapId';\n   67  \t$.ajax(\n   68  \t\t{\n   ..\n   78  \n   79  \n   80: } // setCalUserSnapId\n   81  \n   82  \n\nC:\\projects\\cbsites\\CF2016\\pms-es\\modules\\calendar\\includes\\js\\calusersnap.js:\n   54  \t// SAVE a value in a FORM, and also in a session value for the back end\n   55  \t// post calUserSnapId async as defaultCalUserSnapId in CF\n   56: \tsetCalUserSnapId ( defaultCalUserSnapId );\n   57  \t// also, #defaultCalUserSnapId is immediately available in other JS calls\n   58  \t$('#defaultCalUserSnapId').val( defaultCalUserSnapId );\n   ..\n   98  \t\t\t// alert ('calling sBuildCalUserSnapList userId ' + userId);\n   99  \t\t\tsBuildCalUserSnapList ( userId );\n  100: \t\t\t// ASYNC setCalUserSnapId sets this in a database session variable\n  101: \t\t\tsetCalUserSnapId ( calUserSnapId );\n  102  \t\t\t// redisplay all the events in the current calendar page\n  103  \t\t\tglalrt('Calling showEventsinCalendar');\n\nC:\\projects\\cbsites\\CF2016\\pms-es\\modules\\calendar\\models\\beans\\calendarBean.cfc:\n  185  } // getCalUserSnapId\n  186  \n  187: function setCalUserSnapId ( calUserSnapId ) {\n  188:     log.debug('Into calendarBean setCalUserSnapId');\n  189:     log.debug('into setCalUserSnapId with #calUserSnapId# ');\n  190      // you can have something besides \"simple\", write the code here, instead of calling the \"simple\" routine\n  191      // store in structure in variables scope, which contains all the preferences\n  192      return common.setSimplePreference ( log, variables.userId, 'calUserSnapId', arguments.calUserSnapId, variables.userPreferences );\n  193: } // setCalUserSnapId\n  194  \n  195  function getCalendarId ( ) {\n  ...\n  207      // store in structure in variables scope, which contains all the preferences\n  208      return common.setSimplePreference ( log, variables.userId, 'calendarId', arguments.calendarId, variables.userPreferences );\n  209: } // setCalUserSnapId\n  210  \n  211  // component\n\n16 matches across 5 files\n",
+					"settings":
+					{
+						"buffer_size": 16284,
+						"line_ending": "Windows",
+						"name": "Find Results",
+						"scratch": true
+					}
+				},
+				{
+					"file": "modules/calendar/includes/helpers/calendarJSHelper.cfm",
+					"settings":
+					{
+						"buffer_size": 2205,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "modules/fileexchange/includes/helpers/feJSHelper.cfm",
+					"settings":
+					{
+						"buffer_size": 2681,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/projects/cbsites/CF2016/go.boxr",
+					"settings":
+					{
+						"buffer_size": 153,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "modules/calendar/includes/js/calusersnap.js",
+					"settings":
+					{
+						"buffer_size": 10913,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "modules/fileexchange/handlers/febrowse.cfc",
+					"settings":
+					{
+						"buffer_size": 4708,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "modules/calendar/handlers/calendar.cfc",
+					"settings":
+					{
+						"buffer_size": 10851,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "modules/calendar/includes/js/calendarlu.js",
+					"settings":
+					{
+						"buffer_size": 12309,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 269.0,
+				"last_filter": "export",
+				"selected_items":
+				[
+					[
+						"export",
+						"ExportHtml: Documentation"
+					],
+					[
+						"exp",
+						"ExportHtml: Documentation"
+					],
+					[
+						"pag",
+						"Package Control: Install Package"
+					],
+					[
+						"expor",
+						"Export to HTML: Show Export Menu"
+					],
+					[
+						"expo",
+						"Export to HTML: Show Export Menu"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"line",
+						"Line Endings Unify"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: sati",
+						"Package Control: Satisfy Dependencies"
+					],
+					[
+						"install package",
+						"Package Control: Install Package"
+					],
+					[
+						"print",
+						"Preferences: SublimeLinter Settings – Default"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"dis",
+						"Package Control: Disable Package"
+					],
+					[
+						"disa",
+						"Package Control: Disable Package"
+					],
+					[
+						"disab",
+						"Package Control: Disable Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 476.0
+			},
+			"console":
+			{
+				"height": 258.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/C/projects/cbsites/CF2016/pms-es",
+				"/C/projects/cbsites/CF2016/pms-es/modules",
+				"/C/projects/cbsites/CF2016/pms-es/modules/calendar",
+				"/C/projects/cbsites/CF2016/pms-es/modules/calendar/handlers",
+				"/C/projects/cbsites/CF2016/pms-es/modules/calendar/includes",
+				"/C/projects/cbsites/CF2016/pms-es/modules/calendar/includes/helpers",
+				"/C/projects/cbsites/CF2016/pms-es/modules/calendar/includes/js",
+				"/C/projects/cbsites/CF2016/pms-es/modules/calendar/layouts",
+				"/C/projects/cbsites/CF2016/pms-es/modules/calendar/models",
+				"/C/projects/cbsites/CF2016/pms-es/modules/calendar/models/beans",
+				"/C/projects/cbsites/CF2016/pms-es/modules/calendar/views",
+				"/C/projects/cbsites/CF2016/pms-es/modules/fileexchange",
+				"/C/projects/cbsites/CF2016/pms-es/modules/fileexchange/includes",
+				"/C/projects/cbsites/CF2016/pms-es/modules/fileexchange/includes/helpers"
+			],
+			"file_history":
+			[
+				"/C/projects/cbsites/CF2016/pms-es/logs/modules/fileexchange.log",
+				"/C/projects/cbsites/CF2016/pms-es/modules/fileexchange/includes/js/fefile.js",
+				"/C/projects/cbsites/CF2016/pms-es/modules/fileexchange/includes/helpers/feJSHelper.cfm",
+				"/C/Users/dbellenger/AppData/Local/Temp/tmp426kqm.html",
+				"/C/Users/dbellenger/AppData/Local/Temp/tmpfrmobj.html",
+				"/C/projects/cbsites/CF2016/pms-es/logs/modules/calendar.log",
+				"/C/projects/cbsites/CF2016/pms-es/modules/fileexchange/models/m_fe_browse_DAO.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/calendar/models/m_calusersnap_DAO.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/calendar/models/m_cl_DAO.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/calendar/includes/js/calendar.js",
+				"/C/Users/dbellenger/Documents/ColdFusionSettings/.CFConfig09122017.json",
+				"/C/projects/cbsites/CF2016/go.boxr",
+				"/C/Users/dbellenger/Documents/ColdFusionSettings/importCFConfig09122017.ps1",
+				"/C/Users/dbellenger/Documents/WindowsPowerShell/Microsoft.PowerShell_profile.ps1",
+				"/C/projects/cbsites/CF2016/pms-es/modules/calendar/includes/js/calendarlu.js",
+				"/C/projects/cbsites/CF2016/pms-es/modules/calendar/models/m_calendar_DAO.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/calendar/handlers/calusersnap.cfc",
+				"//192.168.50.49/e/websites/cbsites/localdevci/pms-es/modules/calendar/includes/js/calendarlu.js",
+				"/C/Users/dbellenger/Documents/NAVSEA/DevNotes/PMSESCB_TEST/PMSESCB_TEST/4_CALEVT.sql",
+				"/C/Users/dbellenger/Documents/ColdFusionSettings/.CFConfig.json",
+				"/C/Users/dbellenger/Documents/ColdFusionSettings/importCFConfig.ps1",
+				"/C/Users/dbellenger/Documents/ColdFusionSettings/importCFConfig09122017orig.ps1",
+				"/C/projects/cbsites/CF2016/pms-es/modules/calendar/handlers/calevt.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/calendar/includes/helpers/calendarJSHelper.cfm",
+				"/C/projects/cbsites/CF2016/pms-es/modules/calendar/includes/js/calfile.js",
+				"/C/projects/cbsites/CF11/server-CF11.json",
+				"/C/projects/cbsites/CF2016/server-cf2016.json",
+				"/C/projects/cbsites/CF2016/pms-es/modules/calendar/models/m_cl_main.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/calendar/views/v_calendar_home.cfm",
+				"/C/projects/cbsites/CF2016/pms-es/modules/calendar/handlers/calendar.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/calendar/handlers/main.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/calendar/includes/js/calusersnap.js",
+				"/C/projects/cbsites/CF2016/pms-es/modules/calendar/includes/js/calendarutility2.js",
+				"/C/projects/cbsites/CF2016/pms-es/modules/calendar/models/beans/calendarBean.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/calendar/handlers/req.cfc",
+				"//192.168.50.49/e/websites/cbsites/localdevci/pms-es/logs/modules/calendar.log",
+				"/C/Users/dbellenger/.CommandBox/logs/commandbox.log",
+				"/C/projects/cbsites/CF2016/pms-es/modules/calendar/handlers/clBaseHandler.cfc",
+				"/C/Users/dbellenger/AppData/Local/Temp/tmpf1e60n.html",
+				"/C/Users/dbellenger/AppData/Local/Temp/tmp3xt00d.html",
+				"/C/Users/dbellenger/AppData/Local/Temp/tmpdu2z7r.html",
+				"/c/users/dbelle~1/appdata/local/temp/tmpb53d2f.html",
+				"/C/Users/dbellenger/AppData/Local/Temp/tmpydr9ij.html",
+				"/C/Users/dbellenger/AppData/Local/Temp/tmpeweg1t.html",
+				"/C/Users/dbellenger/AppData/Local/Temp/tmphpcbm2.html",
+				"/C/projects/cbsites/CF2016/pms-es/modules/fileexchange/handlers/convfefolder.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/fileexchange/includes/js/fefolder.js",
+				"/C/projects/cbsites/CF2016/pms-es/Application.cfc",
+				"/C/Users/dbellenger/.CommandBox/server/BD99047899392C3F4945F8EE9711AA64-cf2016/trayOptions.json",
+				"/C/projects/cbsites/CF2016/pms-es/models/beans/responseBean.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/logs/modules/library.log",
+				"/C/projects/cbsites/CF2016/pms-es/modules/library/models/m_lb_home_DAO.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/library/handlers/document.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/library/handlers/lbbrowse.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/library/handlers/lbfolder.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/library/handlers/lbhome.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/library/handlers/lbhomexxx.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/library/handlers/lbsearch.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/library/handlers/main.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/library/handlers/version.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/library/includes/helpers/testsamples.cfm",
+				"/C/projects/cbsites/CF2016/pms-es/modules/library/models/m_document.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/library/includes/js/document.js",
+				"/C/projects/cbsites/CF2016/pms-es/modules/library/models/m_document_DAO.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/library/models/m_lb_browse.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/library/models/m_lb_browse_DAO.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/library/models/m_lb_folder.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/library/models/m_lb_home.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/library/models/m_version_DAO.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/fileexchange/handlers/fefile.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/fileexchange/handlers/fefolder.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/fileexchange/handlers/fehome.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/fileexchange/handlers/fesearch.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/fileexchange/includes/js/fesearch.js",
+				"/C/projects/cbsites/CF2016/pms-es/modules/fileexchange/models/m_fe_email.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/fileexchange/models/m_fe_folder.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/fileexchange/models/m_fe_folder_DAO.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/fileexchange/models/m_fe_home.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/fileexchange/models/m_fe_home_DAO.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/fileexchange/models/m_fe_search_DAO.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/fileexchange/models/m_fefile_DAO.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/library/includes/js/lbfolder.js",
+				"/C/projects/cbsites/CF2016/pms-es/modules/library/includes/js/lbsearch.js",
+				"/C/projects/cbsites/CF2016/pms-es/modules/library/includes/js/version.js",
+				"/C/projects/cbsites/CF2016/pms-es/modules/library/models/m_lb_folder_DAO.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/library/models/m_lb_search_DAO.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/library/models/m_version.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/calendar/handlers/calfile.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/calendar/models/m_calendar_email.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/calendar/models/m_calfile.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/calendar/models/m_calfile_DAO.cfc",
+				"/C/Users/dbellenger/Documents/NAVSEA/Commandbox instructions/arguments fails in 2016.cfm",
+				"/C/Users/dbellenger/Documents/NAVSEA/Commandbox instructions/TryCF.com.html",
+				"/C/projects/cbsites/CF2016/pms-es/modules/fileexchange/handlers/febrowse.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/models/m_functions.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/models/m_calfillib.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/calendar/models/m_cl_utility_DAO.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/calendar/handlers/calutility.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/fileexchange/handlers/feutility.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/logs/security.log",
+				"/C/projects/cbsites/CF2016/pms-es/logs/modules/navigation.log",
+				"/C/projects/cbsites/CF2016/pms-es/views/v_landing.cfm",
+				"/C/projects/cbsites/CF2016/pms-es/modules/navigation/includes/js/nav_project.js",
+				"/C/projects/cbsites/CF2016/pms-es/logs/system.log",
+				"/C/projects/cbsites/CF2016/pms-es/logs/response.log",
+				"/C/projects/cbsites/CF2016/pms-es/logs/modules/admin.log",
+				"/C/projects/cbsites/CF2016/pms-es/modules/navigation/models/m_navigation.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/interceptors/userSession.cfc",
+				"/C/projects/cbsites/CF2016/pms-es/modules/calendar/models/ousertovars.cfm",
+				"//192.168.50.49/e/websites/cbsites/localdev/pms-es/logs/modules/navigation.log",
+				"//192.168.50.49/e/websites/cbsites/localdev/pms-es/logs/modules/calendar.log",
+				"//192.168.50.49/e/websites/cbsites/localdev/pms-es/logs/modules/email.log",
+				"/C/projects/cbsites/CF2016/pms-es/config/Coldbox.cfc",
+				"/C/boxtest1/handlers/Main.cfc",
+				"//192.168.50.49/d/ColdBox_logs/modules/calendar.log",
+				"/C/ColdFusion11/cfusion/wwwroot/pms-es/logs/modules/calendar.log",
+				"//192.168.50.49/e/websites/cbsites/localdev/pms-es/Application.cfc",
+				"/C/ColdFusion11/cfusion/wwwroot/pms-es/Application.cfc",
+				"/C/ColdFusion11/cfusion/wwwroot/pms-es/config/WireBox.cfc",
+				"/C/ColdFusion11/cfusion/wwwroot/pms-es/includes/js/common.js",
+				"/C/ColdFusion11/cfusion/wwwroot/pms-es - backups/pms-es - 201706161201 before merge with localdev/includes/js/common.js",
+				"/C/ColdFusion11/cfusion/wwwroot/pms-es/modules/filemgmt/handlers/main.cfc",
+				"/C/ColdFusion11/cfusion/wwwroot/dontest/ben1.cfm",
+				"/C/tmp/jsongood.cfm",
+				"/C/tmp/jsonbad.cfm",
+				"/C/ColdFusion11/cfusion/wwwroot/pms-es/modules/calendar/includes/js/calendarutility2.js",
+				"/C/ColdFusion11/cfusion/wwwroot/pms-es/modules/calendar/layouts/lay_calendar_main.cfm",
+				"/C/ColdFusion11/cfusion/wwwroot/pms-es/modules/qa/handlers/main.cfc"
+			],
+			"find":
+			{
+				"height": 44.0
+			},
+			"find_in_files":
+			{
+				"height": 113.0,
+				"where_history":
+				[
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\modules\\calendar\\,-*.log",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\modules\\fileexchange\\,-*.log",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\modules\\calendar\\,-*.log",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\modules\\calendar\\,*.js",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\modules\\calendar\\,-*.log",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\modules\\fileexchange\\,-*.log",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\modules\\fileexchange\\,*.js",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\modules\\fileexchange\\,-*.log",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\modules\\calendar\\,-*.log",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\,-*.log",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\modules\\calendar\\,-*.log",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\modules\\calendar\\handlers,-*.log",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\modules\\calendar,-*.log",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\modules\\calendar,*.js",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\modules\\calendar,-*.log",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\modules\\calendar,*.js",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\modules\\calendar,-*.log",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\,-*.log",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\,*.js",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\modules\\calendar,*.js",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\modules\\calendar,-*.js",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\modules\\calendar,-*.log",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\modules\\fileexchange,-*.log",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\modules\\library,-*.log",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\modules\\calendar,-*.log",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\,*.cfm,*.cfc",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\,-*.log,-*.js,-*.html,-*.png,-*.gif,-*.jpg,-*.woff*,-*.sw*",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\,-*.log,-*.js,-*.html,-*.png,-*.gif,-*.jpg,-*.woff*",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\,-*.log,-*.js,-*.html,-*.png,-*.gif",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\,-*.log,-*.js,-*.html",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\,-*.log,-*.js",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\,-*.log",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\modules\\library,-*.log",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\,-*.log",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\modules\\calendar,-*.log",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\modules\\library,-*.log",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\modules\\fileexchange,-*.log",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\modules\\library,-*.log",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\,-*.log",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\modules\\calendar,-*.log",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\modules\\library,-*.log",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\modules\\fileexchange,-*.log",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\modules\\calendar,-*.log",
+					"C:\\projects\\cbsites\\CF2016\\pms-es\\,-*.log",
+					"C:\\ColdFusion2016\\cfusion\\wwwroot\\pms-es\\,-*.log",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\,-*.log",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\calendar,-*.log",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\calendar,-*.log",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\calendar,-*.log",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\calendar",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\calendar",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\calendar",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\calendar",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\calendar",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\calendar",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\calendar",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\calendar",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\calendar",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\models",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library,-*.log",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library,*.css",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\,-*.log",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library,*.css",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\,*.js",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library,-*.log",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library, *.css",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library, -*.log",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library, *.cfc",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library, -*.log",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library, *.css",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library, -*.log",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\, -*.log",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library, -*.log",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\, -*.log",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library, -*.log",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\, -*.log",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\, lay*.cfm",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\, layout*.cfm",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\, -*.log",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library, -*.log",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library, *.js",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library, -*.log",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\sam, -*.log",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library, -*.log",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\, -*.log",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library, -*.log",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library, *.js",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library, -*.log",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\, -*.log",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\, -*.log",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library, -*.log",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\simplecrudwithrest, -*.log,-*.html",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\calendar, -*.log,-*.html",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library, -*.log,-*.html",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\calendar, -*.log,-*.html",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library, -*.log,-*.html",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\, -*.log,-*.html",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library, -*.log,-*.html",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\calendar, -*.log,-*.html",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library, -*.log,-*.html",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\calendar, -*.log,-*.html",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es, -*.log,-*.html",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\calendar, -*.log,-*.html",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es, -*.log,-*.html",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\calendar, -*.log,-*.html",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library, -*.log,-*.html",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\calendar, -*.log,-*.html",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\, -*.log,-*.html",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library, -*.log,-*.html",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\, -*.log,-*.html",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library, -*.log,-*.html",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\librarypseudo, -*.log,-*.html",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\calendar, -*.log,-*.html",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\library, -*.log,-*.html",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\modules\\calendar, -*.log,-*.html",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\, -*.log,-*.html",
+					"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-es\\, -*.log,-*.html,-*.js"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"setCalUserSnapId",
+					"dualSaveDefaultCalUserSnapId",
+					"dual",
+					"targetui",
+					"gettargetuiandfolderid",
+					"saveCalendar",
+					"save",
+					"success",
+					"countDuplicateCalendars",
+					"countdup",
+					"async:",
+					"sRet",
+					"sRret",
+					"sret",
+					"showEventsinCalendar",
+					"list",
+					"as favorite",
+					"hasattachment",
+					"calevtsnap",
+					"error",
+					"placeOneEvent",
+					"tCalEvt",
+					"placeOneEvent",
+					"showEventsinCalendar",
+					"displayhome",
+					"calendarId",
+					"ensureCalendarisViewed",
+					"get_acalendaris",
+					"saveCalendar",
+					"save",
+					"snap",
+					"possibly",
+					"delete",
+					"program_library",
+					"privSetSpecial Special",
+					"lastNormal",
+					"convertCalUserSnaptodVars",
+					"function",
+					"ensureCalendarisViewed",
+					"saveCalUserSnap",
+					"queryExecute",
+					"in get_aCalendarIsViewed",
+					"get_aCalendarIsViewed",
+					"param 1",
+					"in get_aCalendarIsViewed",
+					"CalendarIsViewed",
+					"ensure",
+					"clUserSnapDAO.save",
+					"ensureCalendarisViewed",
+					"convertCalUserSnaptodVars",
+					"saveCalUserSnap",
+					"getuserId",
+					"scmd",
+					"ensureCalendarisViewed",
+					"async:",
+					"$.ajax(",
+					"getjq",
+					"btnsavecalendar",
+					"placeOneEvent",
+					"showEventsinCalendar",
+					"chkallday",
+					"CalEvtViewOne",
+					"privBuildEditCalEvtModalForm",
+					"in calEvtViewOne, tCalEvt",
+					"save",
+					"savecalevt",
+					"save",
+					"defaultCalendarId",
+					"calendarId",
+					"showDeveloperMenu",
+					"defaultCalendarId",
+					"defaultCalUserSnapId",
+					"defaultCalendarId",
+					"privBuildCalUserSnapList",
+					"defaultcalusersnapid",
+					"xxx",
+					"home",
+					"input",
+					"defaultCalUserSnapId",
+					"initHomeView",
+					"In main.cfc(home), defaultCalUserSnapId",
+					"caluserviewid",
+					"getValUsingJqSelector",
+					"postDefaultCalUserSnapId",
+					"post",
+					"postDefaultCalUserSnapId",
+					"defaultcalusersnapid",
+					"btnsave",
+					"endcalendar",
+					"compiled to end",
+					"btnsave",
+					"save",
+					"into addcalevt",
+					"privBuildSelectedCalUserSnapSelect",
+					"qCalUserSnaps",
+					"get_qCalUserSnaps",
+					"qCalUserSnaps",
+					"fcalevtmodal",
+					"endcalendarlu",
+					"getcal",
+					"#",
+					"setCalUserSnapId",
+					"sBuildCalUserSnapList",
+					"setCalUserSnapId",
+					"ViewUserSnapList",
+					"defaultCalUserSnapId",
+					"setCalUserSnapId",
+					"editcalusersnapmodal",
+					"editcalusersnap",
+					"defaultCalUserSnapId",
+					"ViewUserSnapList",
+					"glCalUserSnapId",
+					"setcalusersnapid",
+					"getcalusersnapid",
+					"getusername",
+					"dumpTableList",
+					"showDeveloperMenu",
+					"dumptablelist",
+					"getusername",
+					"setusername",
+					"getusername",
+					"targetui",
+					"checkCalendarFormErrors",
+					"countDuplicateCalendars",
+					"countdupli",
+					"async:",
+					"setCalUserSnapId",
+					"showeventsincalendar"
+				],
+				"highlight": false,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"dualSaveDefaultCalUserSnapId",
+					"rc.",
+					"rc",
+					"rc.",
+					"thePhaseId",
+					"calendarId",
+					"cal",
+					"aCalUserSnaps",
+					"theSinglePhaseId",
+					"phaseId",
+					"calPhase",
+					"c.",
+					"calendarId",
+					"cal",
+					"qUserFavFolder",
+					"qUserFavFolders",
+					"pg_lu",
+					"ErrorStruct",
+					"searchTable",
+					"SearchData",
+					"lbMain",
+					"submitterId",
+					"getValUsingJqSelector",
+					"CALUSER",
+					"CALNOTIFUNIT_LU",
+					"CALNOTIFMETHOD_LU",
+					"CALEVTUSERNOTIF",
+					"CALEVTCALENDAR",
+					"CALENDAR_LU",
+					"m_calendar_base",
+					"common.sAlwaysList",
+					"common.WriteErrorDetails",
+					"#,",
+					"getCalTimeZone",
+					"*",
+					"pseudolink",
+					"jqueryExample",
+					"basicExample",
+					"CalEvt",
+					"flbCalEvtUpdate",
+					"oUser",
+					"oCalendar",
+					"AddEvt",
+					"oCalendar",
+					"oUser",
+					"tBuildSearchTable",
+					"slFileTypeIds",
+					"slSelectedFileTypes",
+					"slFileTypeIds",
+					"FILETYPEID",
+					"fileTypeId",
+					"selectedFileTypes",
+					"SelectedFileTypes",
+					"SELECTEDFILETYPES",
+					"qFileTypes",
+					"clCommon",
+					"clcommon",
+					"calendar",
+					"objCalendar",
+					"calendar",
+					"objCalendar",
+					"calendar",
+					"objCalendar",
+					"sDebugMsg",
+					"sBuildBrowseHTML",
+					"SBUILDBROWSEHTML",
+					"CFSAVECONTENT",
+					"btn-primaryx",
+					"lbCommon.WriteErrorDetails",
+					"local.",
+					"if (",
+					"}",
+					";",
+					"",
+					"//",
+					"UIDocSecurity",
+					"sessionSecBean",
+					"getUiDocumentSecurity",
+					"prc.uiDocumentSecurity",
+					"uiSecEmptyBean",
+					"objUser",
+					"",
+					"// ",
+					"",
+					"SRET",
+					"sRet",
+					"sBuildSearchTable",
+					"aorigmap",
+					"tResponse",
+					" />",
+					"<cfproperty",
+					"BuildLbVersionTableDiv",
+					"filesize",
+					"sCogFromPhrase",
+					"sCogJoinPhrase",
+					"qFolder",
+					"aFolders",
+					"qModifiers",
+					"modifiedByUserId",
+					"selectedModifiedByUserIds",
+					"slModifiedByUserIds",
+					"keywordId",
+					"qTags",
+					"slkeywordIds",
+					"tDateModifiedPair",
+					"FileSizes",
+					"SelectedFileSize",
+					"LbFileTypes",
+					"getsSearchFormVars",
+					"qSetProjFolders",
+					"sGetSearchFormVars",
+					"qGetProjFolders",
+					"tVars",
+					"BuildEditDocumentModalForm",
+					"lbBuildEditDocumentModalForm",
+					"docIsInCollection",
+					"CollViewDetails",
+					"DocDetails",
+					"get",
+					"variables.",
+					"property",
+					"objLibrary",
+					"targetUI",
+					"where",
+					"calendar",
+					"cl",
+					"clCommon",
+					"clDAO"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 4,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "modules/calendar/includes/js/calendar.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 14739,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2824,
+										2852
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												2875,
+												2876
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/round_bracket.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												2852,
+												2853
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content"
+									],
+									"editorconfig": true,
+									"ensure_newline_at_eof_on_save": true,
+									"git_gutter_is_enabled": true,
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": false,
+									"trim_trailing_white_space_on_save": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2257.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 16284,
+								"regions":
+								{
+									"match":
+									{
+										"flags": 112,
+										"regions":
+										[
+											[
+												189,
+												211
+											],
+											[
+												255,
+												277
+											],
+											[
+												363,
+												385
+											],
+											[
+												557,
+												579
+											],
+											[
+												633,
+												655
+											],
+											[
+												795,
+												817
+											],
+											[
+												906,
+												928
+											],
+											[
+												1109,
+												1131
+											],
+											[
+												1199,
+												1221
+											],
+											[
+												1478,
+												1500
+											],
+											[
+												1580,
+												1602
+											],
+											[
+												1891,
+												1899
+											],
+											[
+												1978,
+												1986
+											],
+											[
+												2030,
+												2038
+											],
+											[
+												2358,
+												2366
+											],
+											[
+												2411,
+												2419
+											],
+											[
+												2683,
+												2691
+											],
+											[
+												2749,
+												2757
+											],
+											[
+												3047,
+												3055
+											],
+											[
+												3096,
+												3104
+											],
+											[
+												3334,
+												3342
+											],
+											[
+												3400,
+												3408
+											],
+											[
+												3508,
+												3516
+											],
+											[
+												3702,
+												3710
+											],
+											[
+												3778,
+												3786
+											],
+											[
+												3940,
+												3948
+											],
+											[
+												4051,
+												4059
+											],
+											[
+												4242,
+												4250
+											],
+											[
+												4312,
+												4320
+											],
+											[
+												4325,
+												4333
+											],
+											[
+												4611,
+												4619
+											],
+											[
+												4648,
+												4656
+											],
+											[
+												4992,
+												5000
+											],
+											[
+												5005,
+												5013
+											],
+											[
+												5183,
+												5191
+											],
+											[
+												5220,
+												5228
+											],
+											[
+												5529,
+												5537
+											],
+											[
+												5542,
+												5550
+											],
+											[
+												5804,
+												5812
+											],
+											[
+												5889,
+												5897
+											],
+											[
+												6023,
+												6031
+											],
+											[
+												6113,
+												6121
+											],
+											[
+												6162,
+												6170
+											],
+											[
+												6183,
+												6191
+											],
+											[
+												6272,
+												6280
+											],
+											[
+												6297,
+												6305
+											],
+											[
+												6441,
+												6449
+											],
+											[
+												6543,
+												6551
+											],
+											[
+												6590,
+												6598
+											],
+											[
+												6612,
+												6620
+											],
+											[
+												6676,
+												6684
+											],
+											[
+												6704,
+												6712
+											],
+											[
+												6716,
+												6724
+											],
+											[
+												6790,
+												6798
+											],
+											[
+												6811,
+												6819
+											],
+											[
+												6918,
+												6926
+											],
+											[
+												6939,
+												6947
+											],
+											[
+												7037,
+												7045
+											],
+											[
+												7084,
+												7092
+											],
+											[
+												7095,
+												7103
+											],
+											[
+												7135,
+												7143
+											],
+											[
+												7152,
+												7160
+											],
+											[
+												7164,
+												7172
+											],
+											[
+												7202,
+												7210
+											],
+											[
+												7223,
+												7231
+											],
+											[
+												7254,
+												7262
+											],
+											[
+												7275,
+												7283
+											],
+											[
+												7300,
+												7308
+											],
+											[
+												7508,
+												7516
+											],
+											[
+												7574,
+												7582
+											],
+											[
+												7929,
+												7937
+											],
+											[
+												7952,
+												7960
+											],
+											[
+												8309,
+												8317
+											],
+											[
+												8323,
+												8331
+											],
+											[
+												8353,
+												8361
+											],
+											[
+												8778,
+												8786
+											],
+											[
+												8876,
+												8884
+											],
+											[
+												8890,
+												8898
+											],
+											[
+												9240,
+												9248
+											],
+											[
+												9334,
+												9342
+											],
+											[
+												9348,
+												9356
+											],
+											[
+												9780,
+												9788
+											],
+											[
+												9874,
+												9882
+											],
+											[
+												9888,
+												9896
+											],
+											[
+												10258,
+												10266
+											],
+											[
+												10352,
+												10360
+											],
+											[
+												10366,
+												10374
+											],
+											[
+												11053,
+												11057
+											],
+											[
+												11338,
+												11342
+											],
+											[
+												11563,
+												11567
+											],
+											[
+												11718,
+												11722
+											],
+											[
+												12049,
+												12053
+											],
+											[
+												12418,
+												12446
+											],
+											[
+												12643,
+												12671
+											],
+											[
+												12798,
+												12826
+											],
+											[
+												13129,
+												13157
+											],
+											[
+												13455,
+												13471
+											],
+											[
+												13699,
+												13715
+											],
+											[
+												13766,
+												13782
+											],
+											[
+												13906,
+												13922
+											],
+											[
+												14021,
+												14037
+											],
+											[
+												14242,
+												14258
+											],
+											[
+												14354,
+												14370
+											],
+											[
+												14434,
+												14450
+											],
+											[
+												14701,
+												14717
+											],
+											[
+												15030,
+												15046
+											],
+											[
+												15098,
+												15114
+											],
+											[
+												15387,
+												15403
+											],
+											[
+												15464,
+												15480
+											],
+											[
+												15511,
+												15527
+											],
+											[
+												15910,
+												15926
+											],
+											[
+												16212,
+												16228
+											]
+										],
+										"scope": ""
+									}
+								},
+								"selection":
+								[
+									[
+										14230,
+										14230
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content"
+									],
+									"default_dir": "C:\\projects\\cbsites\\CF2016\\pms-es",
+									"detect_indentation": false,
+									"git_gutter_is_enabled": false,
+									"line_numbers": false,
+									"output_tag": 5,
+									"result_base_dir": "",
+									"result_file_regex": "^([^ \t].*):$",
+									"result_line_regex": "^ +([0-9]+):",
+									"scroll_past_end": true,
+									"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 7728.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "modules/calendar/includes/helpers/calendarJSHelper.cfm",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2205,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1535,
+										1535
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												1537,
+												1538
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/round_bracket.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												1119,
+												1120
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content"
+									],
+									"editorconfig": true,
+									"ensure_newline_at_eof_on_save": true,
+									"git_gutter_is_enabled": true,
+									"syntax": "Packages/ColdFusion/HTML+CFML.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": false,
+									"trim_trailing_white_space_on_save": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1004.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "modules/fileexchange/includes/helpers/feJSHelper.cfm",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2681,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										635,
+										635
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												637,
+												638
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/round_bracket.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												333,
+												334
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content"
+									],
+									"editorconfig": true,
+									"ensure_newline_at_eof_on_save": true,
+									"git_gutter_is_enabled": true,
+									"syntax": "Packages/ColdFusion/HTML+CFML.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": false,
+									"trim_trailing_white_space_on_save": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 31.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/C/projects/cbsites/CF2016/go.boxr",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 153,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										78,
+										78
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content"
+									],
+									"git_gutter_is_enabled": false,
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "modules/calendar/includes/js/calusersnap.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 10913,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1825,
+										1841
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												2000,
+												2001
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												1690,
+												1691
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content"
+									],
+									"editorconfig": true,
+									"ensure_newline_at_eof_on_save": true,
+									"git_gutter_is_enabled": true,
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": false,
+									"trim_trailing_white_space_on_save": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 820.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "modules/fileexchange/handlers/febrowse.cfc",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4708,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										680,
+										680
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content"
+									],
+									"editorconfig": true,
+									"ensure_newline_at_eof_on_save": true,
+									"git_gutter_is_enabled": true,
+									"syntax": "Packages/ColdFusion/ColdFusionCFC.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": false,
+									"trim_trailing_white_space_on_save": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 61.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "modules/calendar/handlers/calendar.cfc",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 10851,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4498,
+										4510
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												4744,
+												4745
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												4329,
+												4330
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content"
+									],
+									"editorconfig": true,
+									"ensure_newline_at_eof_on_save": true,
+									"git_gutter_is_enabled": true,
+									"syntax": "Packages/ColdFusion/ColdFusionCFC.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": false,
+									"trim_trailing_white_space_on_save": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2843.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "modules/calendar/includes/js/calendarlu.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 12309,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										10701,
+										10701
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												10874,
+												10875
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												10226,
+												10227
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content"
+									],
+									"editorconfig": true,
+									"ensure_newline_at_eof_on_save": true,
+									"git_gutter_is_enabled": true,
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": false,
+									"trim_trailing_white_space_on_save": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 7559.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 31.0
+			},
+			"input":
+			{
+				"height": 39.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-32000,-32000,-1,-1,971,319,245,1341",
+			"project": "pmscbdon.sublime-project",
+			"replace":
+			{
+				"height": 58.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"layout_lib",
+						"modules\\library\\layouts\\lay_library_main.cfm"
+					],
+					[
+						"m_lib_",
+						"modules\\library\\models\\m_lib_base.cfc"
+					],
+					[
+						"library.log",
+						"logs\\modules\\library.log"
+					],
+					[
+						"jsolder",
+						"modules\\library\\includes\\js\\libraryolder.js"
+					],
+					[
+						"browse",
+						"modules\\library\\views\\v_library_browse.cfm"
+					],
+					[
+						"gitign",
+						".gitignore"
+					],
+					[
+						"main.c",
+						"handlers\\main.cfc"
+					],
+					[
+						"main",
+						"handlers\\main.cfc"
+					],
+					[
+						"getinsta",
+						"modules\\cbstorages\\apidocs\\cbstorages\\SessionStorage.html"
+					],
+					[
+						"users",
+						"interceptors\\userSession.cfc"
+					],
+					[
+						"install",
+						"modules\\actionItems\\views\\submit_action_item_assignor\\listAllActionItems.cfm"
+					],
+					[
+						"userdao",
+						"modules\\admin\\models\\m_admin_userDAO.cfc"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"C:\\ColdFusion11\\cfusion\\wwwroot\\pms-escb2\\pmsescb2.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 290.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 41,
+			"workspace_name": "/C/projects/cbsites/CF2016/pms-es/pmscbdon.sublime-workspace"
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/C/projects/cbsites/CF2016/pms-es/pmscbdon.sublime-workspace",
+			"/C/projects/cbsites/CF11/pms-es/pmscbdon.sublime-workspace",
+			"/C/ColdFusion11/cfusion/wwwroot/pms-es/pmscbdon.sublime-workspace",
+			"/C/ColdFusion11/cfusion/wwwroot/pms-ds/pmscbdon.sublime-workspace",
+			"/C/ColdFusion11/cfusion/wwwroot/pms-esx/pmscbdon.sublime-workspace",
+			"/C/ColdFusion11/cfusion/wwwroot/pms-es/modules/library/includes/js/pmscbdon.sublime-workspace",
+			"/C/ColdFusion11/cfusion/wwwroot/pms-es/pmsescb.sublime-workspace",
+			"/C/ColdFusion11/cfusion/wwwroot/pms-escb2/pmsescb2.sublime-workspace",
+			"/C/boxtest1/boxtest1.sublime-workspace",
+			"/C/boxtest1/Application.sublime-workspace"
+		]
+	}
+}

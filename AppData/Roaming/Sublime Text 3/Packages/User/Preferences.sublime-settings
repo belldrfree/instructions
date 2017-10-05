@@ -1,0 +1,18 @@
+{
+	"auto_complete_commit_on_tab": true,
+	"auto_find_in_selection": true,
+	"bold_folder_labels": true,
+	"caret_style": "wide",
+	"color_scheme": "Packages/User/SublimeLinter/Humane (SL).tmTheme",
+	"fade_fold_buttons": false,
+	"font_size": 15,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"AppleScript",
+		"Clojure",
+		"ColdBox Platform",
+		"Vintage"
+	],
+	"word_wrap": true
+}

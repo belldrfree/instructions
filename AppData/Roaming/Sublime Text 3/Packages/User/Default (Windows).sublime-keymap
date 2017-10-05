@@ -1,0 +1,35 @@
+[
+	// change "save-as" to "save-all"
+	{ "keys": ["ctrl+shift+s"], "command": "save_all"},
+	
+	// cf tags
+	// cfabort
+	{ "keys": ["ctrl+shift+c", "ctrl+shift+a"], "command": "insert_snippet", "args": {"contents": "<cfabort>" } },
+	// cfscript abort
+	{ "keys": ["ctrl+shift+x", "ctrl+shift+a"], "command": "insert_snippet", "args": {"contents": "abort;" } },
+	// cfdump
+	{ "keys": ["ctrl+shift+c", "ctrl+shift+d"], "command": "insert_snippet", "args": {"contents": "<cfdump var=\"#${0:$SELECTION}#\" label=\"${0:$SELECTION}\" >" } },
+	// cfscript writedump
+	{ "keys": ["ctrl+shift+x", "ctrl+shift+d"], "command": "insert_snippet", "args": {"contents": "writedump(var=\"#${0:$SELECTION}#\", label=\"${0:$SELECTION}\");" } },
+	// cfoutput
+	{ "keys": ["ctrl+shift+c", "ctrl+shift+o"], "command": "insert_snippet", "args": {"contents": "<cfoutput>#${0:$SELECTION}#</cfoutput>" } },
+	// cfscript writeoutput
+	{ "keys": ["ctrl+shift+x", "ctrl+shift+o"], "command": "insert_snippet", "args": {"contents": "writeoutput(${0:$SELECTION});" } },
+	// property
+	{ "keys": ["ctrl+shift+c", "ctrl+shift+p"], "command": "insert_snippet", "args": {"contents": "<cfproperty name=\"settings\" inject=\"coldbox:modulesettings:$1${0:$SELECTION}$1\">" } },
+	// cfscript property
+	{ "keys": ["ctrl+shift+x", "ctrl+shift+p"], "command": "insert_snippet", "args": {"contents": "property name=\"settings\" inject=\"coldbox:modulesettings:$1${0:$SELECTION}$1\"; " } },
+	// cfscript log.info
+	{ "keys": ["ctrl+shift+x", "ctrl+shift+i"], "command": "insert_snippet", "args": {"contents": "log.info ( '${0:$SELECTION} ' & ${0:$SELECTION} );" } },
+	// cfscript queryExecute
+	{ "keys": ["ctrl+shift+x", "ctrl+shift+x"], "command": "insert_snippet", "args": {"contents": "<cfscript>\nvar sCodeLabel = 'get_stuff';\nvar sParameterAndValue = 'userid #theUserId#, theSingleProjId #theSingleProjId#';\nvar sCmd = '\nselect distinct(phaseTbl.projid) from userPhase\nJOIN phaseTbl on phaseTbl.phaseid = userPhase.phaseid\njoin pmsesproj_lu on pmsesproj_lu.projid = phaseTbl.projid\nwhere (\npmsesproj_lu.parentprojid = :theSingleProjId\nOR pmsesproj_lu.projid = :theSingleProjId\n )\nAND userid=:UserId\n';\n\ntry {\n// EXECUTE QUERY\nvar qTmp = queryExecute( sCmd\n	, { userid= {value=#theUserId#, CFSQLType='CF_SQL_NUMERIC'}\n	, theSingleProjId= {value=#theSingleProjId#, CFSQLType='CF_SQL_NUMERIC'}\n}\n	, {result='tqresult'}\n	);\n// SUCCESS\n// writedump(var='#tqresult#', label='#sCodeLabel# SUCCESSFUL tqresult' );\nvar serialParms = serializeJSON(tqresult.sqlparameters) ?: '';\nlog.debug('#sCodeLabel# successful sql=#tqresult.sql# sqlparameters #serialParms#');\n} catch ( any e ) {\n	// FAILURE\n	common.WriteErrorDetails ( log, sCodeLabel, sCmd, sParameterAndValue, e );\nrethrow;\n\n} // catch\n</cfscript>\n" }} ,
+	// toggle "in selection" when replacing
+	{ "keys": ["alt+s"], "command": "toggle_in_selection",
+    "context": { "key": "setting.is_widget", "operator": "equal", "operand": true } },
+    // js alert
+	{ "keys": ["ctrl+alt+j", "ctrl+alt+a"], "command": "insert_snippet", "args": {"contents": "alert ('${0:$SELECTION}');" } },
+	{ "keys": ["ctrl+alt+j", "ctrl+alt+v"], "command": "insert_snippet", "args": {"contents": "alert ('${0:$SELECTION} ' + ${0:$SELECTION});" } },
+	{ "keys": ["ctrl+alt+j", "ctrl+alt+j"], "command": "insert_snippet", "args": {"contents": "alert ('JSON: ${0:$SELECTION} ' + JSON.stringify( ${0:$SELECTION} ) );" } }
+
+    	
+]
